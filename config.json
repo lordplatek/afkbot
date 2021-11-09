@@ -1,0 +1,9 @@
+{
+	"ip":"ult2.falix.gg",
+	"port": 26766,
+	"name": "Hitlerinio",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register jebacdisa1234 jebacdisa1234",
+	"login-cmd":"/login jebacdisa1234"
+}
